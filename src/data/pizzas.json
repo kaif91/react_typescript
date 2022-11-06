@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "abc",
+    "description": "Fresh tomatoes",
+    "price": 13.99
+  },
+  {
+    "id": 2,
+    "name": "Napoletana",
+    "description": "Fresh onions",
+    "price": 13.99
+  },
+  {
+    "id": 3,
+    "name": "Marinara",
+    "description": "Fresh vegies loaded",
+    "price": 13.99,
+    "specialOffer": true
+  },
+  {
+    "id": 4,
+    "name": "Caprese",
+    "description": "Fresh tomatoes",
+    "price": 13.99
+  },
+  {
+    "id": 5,
+    "name": "Nimboo",
+    "description": "Fresh lemons",
+    "price": 13.99
+  }
+]
